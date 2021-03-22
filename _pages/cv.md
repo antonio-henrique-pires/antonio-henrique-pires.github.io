@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Law, Federal University of Pernambuco, 2015
+* M.A. in Political Science and International Relations, Federal University of Pernambuco, 2018
+* Ph.D in Political Science and International Relations, Federal University of Pernambuco, 2023 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020: Research Assistant
+  * Federal University of Pernambuco
+  * Project: Citation analysis of UN General Assembly resolutions
+  * Supervisor: Professor Rafael Mesquita
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019: Teaching Assistant
+  * Federal University of Pernambuco
+  * Course: Introduction to International Relations
+  * Supervisor: Professor Marcelo de Almeida Medeiros
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Portuguese (Native)
+  * English (TOEFL ITP: 637)
+* Computing
+  * R
+  * Excel
+
+Relevant Courses
+======
+* 2021: Basic Statistics for Political Science
+  * Federal University of Pernambuco
+
+* 2020: Data Science for International Relations: Analysis and Visualization
+  * Getúlio Vargas Foundation (FGV)
 
 Publications
 ======
@@ -42,18 +50,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Technical Works
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* The UN Security Council Debates, with Mirco Schoenfeld, Steffen Eckhard, Ronny Patz e Hilde van Meegdenburg, 2017
+  * Available at [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KGVSYH)
+
+Research in Progress
+======
+* Sovereignty and Intervention at the United Nations Security Council in the post-Cold War (Doctoral Thesis)
+
   
-Teaching
+Working Papers
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* From “text-as-text” to “text-as-data”: the potential of research in International Relations, with Davi Moreira and Marcelo de Almeida Medeiros
+* The references of the nations: a bibliometric analysis of UN General Assembly resolutions since 1945, with Rafael Mesquita (abstract accepted for 2021 ECPR General Conference)
